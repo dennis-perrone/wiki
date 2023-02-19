@@ -95,7 +95,9 @@ To hide real name and the local user name
 /set irc.server.freenode.realname "My real name"
 
 ```
+
 ## Useful Commands
+
 To search for channels containing ```python``` in their name
 
 ```code
@@ -103,6 +105,7 @@ To search for channels containing ```python``` in their name
 /msg alis list *python*
 
 ```
+
 To search for a channel who's topic contains the word ```python```
 
 ```code
