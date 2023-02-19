@@ -91,8 +91,8 @@ To hide real name and the local user name
 
 ```code
 
-/set irc.server.freenode.username "My user name"
-/set irc.server.freenode.realname "My real name"
+/set irc.server.libera.username "My user name"
+/set irc.server.libera.realname "My real name"
 
 ```
 
