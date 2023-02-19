@@ -1,0 +1,2 @@
+# wiki
+Repository for wiki
