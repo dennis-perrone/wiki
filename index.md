@@ -12,15 +12,15 @@
 - [Kubernetes Notes](/kubernetes/index.md)
 - [Linux Notes](/linux/index.md)
 
-## Home Infrastructure
+## Home Technology
 
-- [Home Infrastructure Index](/home_infra/index.md)
+- [Home Technology Index](/home_infra/index.md)
+- [Personal Computer Config Notes](/home_tech/index.md#personal-computer-configuration-notes)
+- [Home Network Notes](/home_tech/index.md#home-network-notes)
 
-## Px Management
+## Product Management
 
 - [Product Management (PdM) Index](/product_management/index.md)
-- [Program Management (PgM) Index](/program_management/index.md)
-- [Project Management (PrM) Index](/project_management/index.md)
 
 ## Programming and Scripting
 

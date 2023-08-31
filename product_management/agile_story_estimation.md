@@ -1,0 +1,27 @@
+# Agile Story Estimation
+
+- What are Agile estimates?
+  - Quantified evaluations of the level of effort needed to complete tasks.
+  - Results are used as project guidelines.
+- Estimates != commitments since other higher priority tasks may come up.
+- Why do we estimate:
+  - Helps to prioritize features.
+  - Historical data can help with release planning.
+  - Can help with conversations around defining scope.
+  - Can help improve the collective understanding of the project.
+  - Can potentially increase morale.
+- Estimate challenges:
+  - There can be issues that pop up throughout the sprint.
+  - Time can be impacted by workplace distractions and/or personal fatigue
+- These can be made alone, but collaborative estimates can produce better results.
+- High velocity != a successful team.
+- Common techniques:
+  - Ideal programming days: A perfect day with no meetings, distractions, etc.
+  - Affinity mapping
+  - T-shirt sizes: Based on t-shirt sizes (s, m, l, xl)
+  - Story Points: Uses the Fibonacci sequence to determine points.
+- How to estimate:
+  - Read the story out loud with the team.
+  - Check the teams confidence level before proceeding.
+  - Estimate as a team.
+  - Vote on estimates.
