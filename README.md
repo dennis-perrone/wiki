@@ -15,8 +15,8 @@
 ## Home Technology
 
 - [Home Technology Index](/home_infra/index.md)
-- [Personal Computer Config Notes](/home_tech/index.md#personal-computer-configuration-notes)
 - [Home Network Notes](/home_tech/index.md#home-network-notes)
+- [Personal Computer Config Notes](/home_tech/index.md#personal-computer-configuration-notes)
 
 ## Product Management
 
