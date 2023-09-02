@@ -30,3 +30,5 @@
 ## Sort Later
 
 A collection of notes for later sorting.
+
+- [Set up virtual environment and virtualenvwrapper](configure_venv_and_venvwrapper.md)
