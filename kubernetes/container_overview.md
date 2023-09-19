@@ -22,4 +22,4 @@
 - Containers run instance of container images.
 - A container image is a single, self-contained file which has the resources needed to run the app, including the application itself.
 - In order to limit container resource consumption, control groups (cgroups) limit restrictions.
-- OCI container images are defined by the `image-spec` specification while OCI container instances are defined by the `runtime-spec` specification. 
+- OCI container images are defined by the `image-spec` specification while OCI container instances are defined by the `runtime-spec` specification.

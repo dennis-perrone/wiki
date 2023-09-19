@@ -27,8 +27,10 @@
 - `ENV`: Defines environmental variables.
 - `ARG`: Build time variables. You can configure the `ENV` via `ARG`. Useful for preserving build-time variables for run-time.
 - `VOLUME`: Defines where to store data outside of the container.
-- Example:
-  ```
+
+## Example Containerfile
+
+  ```Dockerfile
   # This is a comment line 1
   FROM        registry.redhat.io/ubi8/ubi:8.6
   LABEL       description="This is a custom httpd container image"
@@ -39,7 +41,7 @@
   COPY        ./src/   /var/www/html/
   USER        apache
   ENTRYPOINT  ["/usr/sbin/httpd"]
-  CMD         ["-D", "FOREGROUND"] 
+  CMD         ["-D", "FOREGROUND"]   
   ```
   
 ## References

@@ -7,7 +7,10 @@
 
 ## Components
 
-- [AWS Compute](/tech/cloud/aws_compute.md)
-- [AWS Networking](/tech/cloud/aws_networking.md)  
-- [AWS Security](/tech/cloud/aws_security.md)
-- [AWS Storage](/tech/cloud/aws_storage.md)
+- AWS Compute:
+  - [Amazon Machine Image (AMI)](/cloud/aws_compute_ami.md)
+  - [AWS Elastic Compute Cloud (EC2)](/cloud/aws_compute_ec2.md)
+- [AWS Networking](/cloud/aws_networking.md)  
+- [AWS Security](/cloud/aws_security.md)
+- [AWS Storage](/cloud/aws_storage.md)
+

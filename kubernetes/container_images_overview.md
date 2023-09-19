@@ -11,4 +11,3 @@
   - `~/.config/containers/registeries.conf`
 
 ## References
-

@@ -3,11 +3,11 @@
 ## Overview
 
 - The Application Stream repository contains two types of content:
-    - Modules:
-        - Can contain several streams to make multiple app versions available
-        - Organizes RPM packages 
-        - Can have one or more **profiles**
-    - Traditional RPM packages.
+  - Modules:
+    - Can contain several streams to make multiple app versions available
+    - Organizes RPM packages
+    - Can have one or more **profiles**
+  - Traditional RPM packages.
 
 ## Configuration
 

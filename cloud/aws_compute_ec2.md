@@ -1,4 +1,4 @@
-## Elastic Compute Cloud (EC2)
+# Elastic Compute Cloud (EC2)
 
 - [Elastic Compute Cloud (EC2)](#elastic-compute-cloud-ec2)
   - [Deployment](#deployment)
@@ -50,4 +50,3 @@
 
 - Still dedicated buy may move to a different dedicated host.
 - Doesn't share with other customers but uses your dedicated pool.
-

@@ -26,7 +26,7 @@
           update_password: on_create
       ```
 
-- BEST PRACTICE: Put the module as the last part of the task. 
+- BEST PRACTICE: Put the module as the last part of the task.
 - Conditional values
 
 | Operation                                                                  | Condition                                          |

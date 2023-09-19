@@ -2,7 +2,7 @@
 
 ## Overview
 
-Ansible Navigator is the content navigator which lives on the control node. 
+Ansible Navigator is the content navigator which lives on the control node.
 
 ## Installation
 

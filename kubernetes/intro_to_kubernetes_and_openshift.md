@@ -3,7 +3,7 @@
 ## Notes
 
 - Container hosts are also known as nodes.
-- A cluster is multiple nodes working together. 
+- A cluster is multiple nodes working together.
 - Kubernetes Features:
   - Service discovery and load balancing: DNS enables inter-service communication.
   - Horizontal scaling: Applications scale up or down with a configuration set.

@@ -2,7 +2,7 @@
 
 ## Book Notes
 
-- [Lean Product Playbook](/product_management/lean_product_playbook.md)
+- [Lean Product Playbook](../../private/reading/books/lean_product_playbook_olsen_d.md)
 
 ## Concepts
 

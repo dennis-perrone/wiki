@@ -6,4 +6,4 @@
 
 ## Reference
 
-1. https://www.redhat.com/sysadmin/fedora-silverblue
+1. [Fedora: SilverBlue Flatpaks](https://www.redhat.com/sysadmin/fedora-silverblue)

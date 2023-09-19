@@ -12,7 +12,7 @@
   - `ansible-galaxy collection install author.collection`
   - Example: `ansible-galaxy collection install ansible.windows -p collections`
   - The `-p` specifies that the collection should be installed into the local collections directory.
-- A *namespace* is the first part of the collection name. 
+- A *namespace* is the first part of the collection name.
 - Automation Hub:
   - Provided by Red Hat.
   - Distributes Red Hat Certified Ansible Content Collections.

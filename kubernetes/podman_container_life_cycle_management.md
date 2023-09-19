@@ -2,7 +2,7 @@
 
 ## Notes
 
-- Running `podman ps -aq` will list all UUIDs. 
+- Running `podman ps -aq` will list all UUIDs.
 - To shutdown all containers: `podman stop $(podman ps -aq)`.
 - To remove all containers (once stopped): `podman rm $(podman ps -aq)`.
 - For full information on the container, run `podman inspect <container_name>`.

@@ -9,6 +9,7 @@
   - fuse-overlayfs: Manages copy-on-write (COW) filesystem.
 - Best Practices:
   - Add a user in the `Containerfile` and specify that user is used to execute the processes.
+  
   ```dockerfile
   FROM registry.access.redhat.com/ubi9/ubi
 
@@ -22,6 +23,7 @@
 
   CMD ["python3", "-m", "http.server"]
   ```
+
 - Limitations of rootless containers:
   - It's not always trivial as some applications are designed to execute as root.
   - Cannot bind to privileged ports (1-1024).

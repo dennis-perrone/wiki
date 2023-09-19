@@ -1,18 +1,11 @@
 # NVIM Lua migration
 
-TODO
-- [ ] Figure out sourcing issue
-- [X] Find link for properly setting Lua telescope keybindings.
-- [ ] Figure out "header" for .lua files for specific plugins.
-
 ## How to enable telescope to search specific directories
 
 - Use `:lua require("telescope.builtin").find_files({ search_dirs = { ".", "/data" } })`
 - Add the following to the maps.lua:
   - `keymap('n', '<leader>fw', "<cmd>lua require('telescope.builtin').live_grep({search_dirs = {'~/wiki'}})<cr>", opts)`
-- Change the values within the `{ }` to define which directories you want in scope.
-- 
-https://github.com/nvim-telescope/telescope.nvim/issues/1276#issuecomment-924631386
+- Change the values within the `{ }` to define which directories you want in scope. [2]
 
 ## Download fonts
 
@@ -22,16 +15,14 @@ https://github.com/nvim-telescope/telescope.nvim/issues/1276#issuecomment-924631
 ## Lualine
 
 - In addition to installing lualine.vim the normal way, [patched nerd fonts](https://github.com/ryanoasis/nerd-fonts#patched-fonts) also need to be downloaded.
-- Either clone the directory or download the specific fonts, then drop them into `~/.local/share/fonts`.
-
-Reference: https://github.com/nvim-lualine/lualine.nvim
+- Either clone the directory or download the specific fonts, then drop them into `~/.local/share/fonts`. [3]
 
 ## Packer.nvim
 
 - It makes the most sense to bootstrap this so that it auto installs on any new installations.
 - Paste the following (or tailored) within `plugin.nvim` file.
 
-```
+```text
 local ensure_packer = function()
   local fn = vim.fn
   local install_path = fn.stdpath('data')..'/site/pack/packer/start/packer.nvim'
@@ -59,5 +50,8 @@ return require('packer').startup(function(use)
 end)
 ```
 
-Reference: https://github.com/wbthomason/packer.nvim
+## References
 
+1. [GitHub: Packer](https://github.com/wbthomason/packer.nvim)
+2. [Telescope Configuration](https://github.com/nvim-telescope/telescope.nvim/issues/1276#issuecomment-924631386)
+3. [Lualine](https://github.com/nvim-lualine/lualine.nvim)

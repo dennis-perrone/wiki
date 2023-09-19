@@ -6,4 +6,4 @@
 
 ## Reference
 
-1. https://wiki.archlinux.org/title/Sudo#Passing_aliases 
+1. [Arch: Passing Sudo Aliases](https://wiki.archlinux.org/title/Sudo#Passing_aliases)

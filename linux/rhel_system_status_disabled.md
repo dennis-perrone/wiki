@@ -11,7 +11,7 @@
   - `rm -rf /var/cache/yum/*`
   - `subscription-manager register`
   - `subscription-manager attach --auto`
-- Verify that `subscription-manager status` shows `Status: Subscribed`. 
+- Verify that `subscription-manager status` shows `Status: Subscribed`.
 
 ## References
 

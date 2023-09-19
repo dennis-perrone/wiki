@@ -4,14 +4,12 @@
   - [Notes](#notes)
     - [Mount Existing File Systems](#mount-existing-file-systems)
     - [Configure Storage with the System Storage Role](#configure-storage-with-the-system-storage-role)
-      - [Managing a File System on an Unpartitioned Disk](#managing-a-file-system-on-an-unpartitioned-disk)
       - [Managing LVM with the Storage Role](#managing-lvm-with-the-storage-role)
     - [Managing Partitions and File Systems with Tasks](#managing-partitions-and-file-systems-with-tasks)
       - [Managing Partitions](#managing-partitions)
       - [Managing File Systems](#managing-file-systems)
     - [Ansible Facts for Storage Configuration](#ansible-facts-for-storage-configuration)
       - [Facts about Block Devices](#facts-about-block-devices)
-      - [Ansible facts for Mounted File Systems](#ansible-facts-for-mounted-file-systems)
   - [References](#references)
 
 ## Notes

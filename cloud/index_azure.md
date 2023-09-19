@@ -7,4 +7,3 @@
 ## Notes
 
 - [Azure Compute](/tech/cloud/azure_compute.md)
-

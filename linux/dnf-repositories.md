@@ -2,8 +2,8 @@
 
 - `dnf repolist all`: Shows all available repositories.
 - To enable/disable repositories:
-    - `dnf config-manager --enable <repo_name>`
-    - `dnf config-manager --disable <repo_name>`
+  - `dnf config-manager --enable <repo_name>`
+  - `dnf config-manager --disable <repo_name>`
 
 ## Add/Remove Repositories
 

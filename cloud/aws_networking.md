@@ -9,7 +9,6 @@
   - [Network Address Translation (NAT)](#network-address-translation-nat)
   - [Virtual Private Gateway (VPG)](#virtual-private-gateway-vpg)
   - [Customer Gateway (CGW)](#customer-gateway-cgw)
-  - [References](#references)
 
 ## Elastic IP (EIP)
 

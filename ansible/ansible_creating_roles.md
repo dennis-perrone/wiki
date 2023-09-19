@@ -6,8 +6,8 @@
 
 - The typical format to import a role is `publisher.role`
 - To view roles that are currently being used: `ansible-galaxy role list`
-- Roles facilitate reusability. 
-- Create a skeleton role by using: `ansible-galaxy init publisher.role_name` 
+- Roles facilitate reusability.
+- Create a skeleton role by using: `ansible-galaxy init publisher.role_name`
 
 ### Best Practices for Roles
 

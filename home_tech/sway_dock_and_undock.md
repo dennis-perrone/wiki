@@ -1,12 +1,11 @@
-# Configure Sway for Dock and Undock
+# Configure Sway for Dock and Undocking
 
-## Within the sway config
+## Within the sway configuration
 
 ```bash
 # Move focused workspaces between monitors
 bindsym $mod+Control+right move workspace to output right
 bindsym $mod+Control+left move workspace to output left
-
 
 gaps inner 10
 gaps outer 0
@@ -19,6 +18,7 @@ bindswitch --reload --locked lid:on output $laptop disable
 bindswitch --reload --locked lid:off output $laptop enable
 exec_always $HOME/bin/display_toggle.sh
 ```
+
 ## Display Toggle
 
 ```bash

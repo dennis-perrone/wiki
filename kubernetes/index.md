@@ -10,7 +10,7 @@
 ## Certifications
 
 - [Red Hat OpenShift Developer I (DO188): Introduction to Containers with Podman](../../private/certifications/red_hat_certified_specialist_containers.md)
-- [Red Hat OpenShift Administration II (DO280): Operating a Production Kubernetes Cluster](../../private/certifications/red_hat_openshift_administration_ii.md) 
+- [Red Hat OpenShift Administration II (DO280): Operating a Production Kubernetes Cluster](../../private/certifications/red_hat_openshift_administration_ii.md)
 
 ## Containers
 
@@ -36,8 +36,9 @@
 
 ### OpenShift
 
-- [How to do x]()
-- [Configure disk encryption]()
+- [How to do x](placeholder)
+- [Configure disk encryption](placeholder)
 - [OpenShift Service Mesh Overview](/kubernetes/index_openshift_service_mesh.md)
 - [OpenShift Serverless Overview](/kubernetes/index_openshift_serverless.md)
 - [Introduction to Kubernetes and OpenShift](/kubernetes/intro_to_kubernetes_and_openshift.md)
+container_overview

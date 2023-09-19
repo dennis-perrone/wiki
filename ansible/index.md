@@ -11,8 +11,8 @@
 ## Adhoc Notes
 
 - [Blog Post Notes: Provision AAP in 10 minutes with operator](/ansible/blog-notes_provision_aap_in_10_minutes_with_operator.md)
-- [Add SSH Key to Windows Server](/tech/ansible/add_ssh_key_to_windows_server.md)
-- [Use Ansible for Linux and ADUC](/tech/ansible/ansible_linux_active_directory.md)
+- [Add SSH Keys to Windows Server](/ansible/add_ssh_key_to_windows_sever.md)
+- [Use Ansible for Linux and ADUC](/ansible/ansible_linux_active_directory.md)
 
 ## Certifications
 

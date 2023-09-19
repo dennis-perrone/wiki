@@ -11,7 +11,7 @@
 
 ### Example Structure
 
-  ```
+  ```yaml
   my_inventorty
     - dev/
       - linux
@@ -25,7 +25,7 @@
 
 ## Dynamic
 
-The Ansible controller will use an **inventory plugin** which will talk with the **inventory provider** like Satellite. 
+The Ansible controller will use an **inventory plugin** which will talk with the **inventory provider** like Satellite.
 
 ## View inventory
 

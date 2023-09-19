@@ -1,6 +1,6 @@
 # Add SSH Key to Windows Server
 
-```
+```bash
 sftp user@<msft_svr>
 mkdir .ssh
 cd .ssh

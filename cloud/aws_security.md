@@ -129,5 +129,3 @@ aws iam create-access-key --user-name <user>
 - Default policy terminates instance in AZ with the most instances.
 - ClosestToNextInstanceHour can reduce cost.
 - OldestInstance terminated instances suffering from lack of restart performance issues.
-
-

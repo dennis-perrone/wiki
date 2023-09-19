@@ -62,7 +62,6 @@ Install packages and create mountable directory
 ```bash
 sudo dnf install samba-client cifs-utils
 sudo mkdir -p /mnt/samba
-
 ```
 
 Configure Permissions
@@ -74,11 +73,11 @@ Configure Permissions
 
 1. Open up file explorer
 2. Right click on **Network** > **Map Network Drive**
-3. Enter ```\\server-ip-address\samba-folder```
+3. Enter `\\server-ip-address\samba-folder`
 4. Select **Reconnect at login**
 5. If separate username/passwords, enter that there are different credentials.
 
 ## References
 
-1. https://ask.fedoraproject.org/t/how-to-setup-samba-on-fedora-the-easy-way/2551
-2. https://linuxize.com/post/how-to-mount-cifs-windows-share-on-linux/
+1. [Setup Samba on Fedora](https://ask.fedoraproject.org/t/how-to-setup-samba-on-fedora-the-easy-way/2551)
+2. [Mount CIFS Windows Share on Linux](https://linuxize.com/post/how-to-mount-cifs-windows-share-on-linux/)
