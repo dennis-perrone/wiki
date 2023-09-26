@@ -21,7 +21,7 @@
 ## General Notes
 
 - [Ansible Automation Platform (AAP) Overview](/ansible/ansible-automation-platform_overview.md)
-- [Ansible Navigator](/ansible/ansible_navigator.md)
+ [Ansible Navigator](/ansible/ansible_navigator.md)
 - [Ansible Use Cases](/ansible/ansible_use_cases.md)
 - [Consuming Ansible](/ansible/consuming_ansible.md)
 - [Deploying Custom Files with Jinja2 Templates](/ansible/ansible_deploying_custom_files_with_jinja2_templates.md)
