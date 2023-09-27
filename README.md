@@ -33,3 +33,4 @@ A collection of notes for later sorting.
 
 - [Set up virtual environment and virtualenvwrapper](configure_venv_and_venvwrapper.md)
 - [Comment and uncomment multiple lines in Vim](comment_and_uncomment_multiple_lines_in_vim.md)
+- [How to encrypt PDFs](how_to_encrypt_pdfs.md)
