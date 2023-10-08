@@ -6,7 +6,9 @@ An MVP allows a way for a product team to ship a product quickly with the least 
 
 ## Notes
 
-![mvp_scale](/notes/images/mvp_scale_2022-10-18.png)
+<p align="center">
+  <img src="/images/mvp_scale_2022-10-18.png"
+</p>
 
 - Risks are offset by opportunity.
 - MVP's should be done quickly.
@@ -35,7 +37,9 @@ An MVP allows a way for a product team to ship a product quickly with the least 
   - A combination of both.
 - Risk / Difficulty Square
 
-![risk_difficulty_square](/notes/images/risk_difficulty_table_2022-10-18.png)
+<p align="center">
+  <img src="/images/risk_difficulty_table_2022-10-18.png"
+</p>
 
 - Techniques:
   - **Email MVP:** Communicate via email. Pitches *new products*.

@@ -9,6 +9,7 @@
 ## DevOps
 
 - [Ansible Notes](/ansible/index.md)
+- [Infrastructure as Code](/iac/index.md)
 - [Kubernetes Notes](/kubernetes/index.md)
 - [Linux Notes](/linux/index.md)
 
