@@ -36,3 +36,4 @@ A collection of notes for later sorting.
 - [Comment and uncomment multiple lines in Vim](comment_and_uncomment_multiple_lines_in_vim.md)
 - [How to encrypt PDFs](how_to_encrypt_pdfs.md)
 - [Add Last Modified Date to File](add_last_modified_date_to_file.md)
+- [Lenses](lenses.md)
