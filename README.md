@@ -37,3 +37,4 @@ A collection of notes for later sorting.
 - [How to encrypt PDFs](how_to_encrypt_pdfs.md)
 - [Add Last Modified Date to File](add_last_modified_date_to_file.md)
 - [Lenses](lenses.md)
+- [Kubernetes Components](kubernetes_components.md)

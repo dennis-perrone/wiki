@@ -33,6 +33,7 @@
 
 - [ConfigMaps](/kubernetes/kubernetes_configmaps.md)
 - [Minikube Installation](/notes/tech/kubernetes/install_minikube.md)
+- [Components](/kubernetes/kubernetes_components.md)
 
 ### OpenShift
 
@@ -41,4 +42,3 @@
 - [OpenShift Service Mesh Overview](/kubernetes/index_openshift_service_mesh.md)
 - [OpenShift Serverless Overview](/kubernetes/index_openshift_serverless.md)
 - [Introduction to Kubernetes and OpenShift](/kubernetes/intro_to_kubernetes_and_openshift.md)
-container_overview
