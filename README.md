@@ -39,3 +39,4 @@ A collection of notes for later sorting.
 - [Photography: Lenses](lenses.md)
 - [Kubernetes Components](kubernetes_components.md)
 - [Setup Brave Browser for Wayland](setup_brave_browser_for_wayland.md)
+- [Cannot Access Backing File in Libvirt](cannot_access_backing_file_in_libvirt.md)
