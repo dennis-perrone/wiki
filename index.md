@@ -41,3 +41,4 @@ A collection of notes for later sorting.
 - [Setup Brave Browser for Wayland](setup_brave_browser_for_wayland.md)
 - [Cannot Access Backing File in Libvirt](cannot_access_backing_file_in_libvirt.md)
 - [Create Kubernetes Cluster with Fedora CoreOS](create_kubernetes_cluster_with_fedora_coreos.md)
+- [NetApp ONTAP Notes](netapp_ontap_notes.md)
