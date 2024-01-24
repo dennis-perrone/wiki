@@ -9,6 +9,6 @@
   - Your feature set
   - User experience
 
-![pmf-pyramid](/notes/images/pmf_triangle_2022-10-18.png)
+![pmf-pyramid](../images/pmf_triangle_2022-10-18.png)
 
 ## References
