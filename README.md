@@ -42,3 +42,4 @@ A collection of notes for later sorting.
 - [Cannot Access Backing File in Libvirt](cannot_access_backing_file_in_libvirt.md)
 - [Create Kubernetes Cluster with Fedora CoreOS](create_kubernetes_cluster_with_fedora_coreos.md)
 - [NetApp ONTAP Notes](netapp_ontap_notes.md)
+- [Brave Profile is Locked](brave_profile_is_locked.md)
