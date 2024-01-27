@@ -43,3 +43,4 @@ A collection of notes for later sorting.
 - [Create Kubernetes Cluster with Fedora CoreOS](create_kubernetes_cluster_with_fedora_coreos.md)
 - [NetApp ONTAP Notes](netapp_ontap_notes.md)
 - [Brave Profile is Locked](brave_profile_is_locked.md)
+- [Fix clipboard image health check](fix_clipboard_image_health_check.md)
