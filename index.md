@@ -44,3 +44,5 @@ A collection of notes for later sorting.
 - [NetApp ONTAP Notes](netapp_ontap_notes.md)
 - [Brave Profile is Locked](brave_profile_is_locked.md)
 - [Fix clipboard image health check](fix_clipboard_image_health_check.md)
+- [ChatGPT Prompts for Work](chatgpt_prompts_for_work.md)
+- [How to create good ChatGPT prompts](how_to_create_good_chatgpt_prompts.md)

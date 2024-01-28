@@ -6,4 +6,3 @@
 - [AWS Solution Architect (Professional)](/certifications/aws_solution_architect_professional.md)
 
 ## Components
-

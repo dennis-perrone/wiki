@@ -25,7 +25,6 @@
 - `kube-proxy`: A network proxy that runs on each node in the cluster. It implements part of the Kubernetes service concept.
 - `Container runtime`: Manages the execution and life cycle of the containers within the Kubernetes environment.
 
-
 ## References
 
 1. [Kubernetes Overview](https://kubernetes.io/docs/concepts/overview/components/)
