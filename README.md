@@ -46,3 +46,4 @@ A collection of notes for later sorting.
 - [Fix clipboard image health check](fix_clipboard_image_health_check.md)
 - [ChatGPT Prompts for Work](chatgpt_prompts_for_work.md)
 - [How to create good ChatGPT prompts](how_to_create_good_chatgpt_prompts.md)
+- [How to document system procedures and automations](how_to_document_system_procedures_and_automations.md)
