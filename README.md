@@ -48,3 +48,4 @@ A collection of notes for later sorting.
 - [How to create good ChatGPT prompts](how_to_create_good_chatgpt_prompts.md)
 - [How to document system procedures and automations](how_to_document_system_procedures_and_automations.md)
 - [Retirement Idea from Bahnan](retirement_idea_from_bahnan.md)
+- [Set wildcard DNS with dnsmasq](set_wildcard_dns_with_dnsmasq.md)
