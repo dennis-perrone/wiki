@@ -49,3 +49,4 @@ A collection of notes for later sorting.
 - [How to document system procedures and automations](how_to_document_system_procedures_and_automations.md)
 - [Retirement Idea from Bahnan](retirement_idea_from_bahnan.md)
 - [Set wildcard DNS with dnsmasq](set_wildcard_dns_with_dnsmasq.md)
+- [Deploy Ansible as a container](deploy_ansible_as_a_container.md)
