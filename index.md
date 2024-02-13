@@ -51,3 +51,4 @@ A collection of notes for later sorting.
 - [Set wildcard DNS with dnsmasq](set_wildcard_dns_with_dnsmasq.md)
 - [Deploy Ansible as a container](deploy_ansible_as_a_container.md)
 - [Current tmux configuration](current_tmux_configuration.md)
+- [Add left and right alignment in Google Docs](add_left_and_right_alignment_in_google_docs.md)
