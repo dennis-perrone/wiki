@@ -3,6 +3,8 @@
 ## Procedures
 
 - Log into the controller and see the devices on the network.
+  - If you cannot see any devices, install `nmap` and run `nmap -sn 192.168.1.0/24`
+  - Identify unknown device names and ssh into them.
 - Reset each device with a paperclip. Hold reset until the LED blinks white.
 - Get the device IP addresses from the controller, SSH into them:
   - Username: ubnt
